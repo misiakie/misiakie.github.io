@@ -1,5 +1,12 @@
-menu
-    Home                [index.html]
-    Publication         [publications.html]
-    Teaching and talks			[teaching.html]
-    Resume               [publications/CV_Misiakiewicz.pdf]
+Info
+    Main                [index.html]
+    Short bio		[bio.html]
+    CV 			[publications/CV_Misiakiewicz.pdf]
+
+Research
+    Publications         [publications.html]
+    Talks/Slides	 [talks.html]
+    Group	 [group.html]
+
+Teaching
+    List		 [teaching.html]
